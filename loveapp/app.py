@@ -9,9 +9,9 @@ def love_shape(t):
     y = 13*np.cos(t) - 5*np.cos(2*t) - 2*np.cos(3*t) - np.cos(4*t)
     return x, y
 
-st.set_page_config(page_title="kamu adalah orang tersayang karena  tahu web ini 💖", layout="centered")
+st.set_page_config(page_title="Hai sayangku 💖", layout="centered")
 
-st.title("Love dari Puguh 💕")
+st.title("kamu adalah orang tersayang karena  tahu web ini 💕")
 
 nama = st.text_input("Masukkan namamu dulu ya :)")
 
