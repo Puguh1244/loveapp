@@ -17,7 +17,7 @@ nama = st.text_input("Masukkan namamu dulu ya :)")
 
 if nama:
     if st.button("Masuk dan lihat kejutan ❤️"):
-        st.write(f"Halo sayangku **{nama}**, kamu mendapatkan love dari **Puguh** 💘")
+        st.write(f"Halo sayangku **{nama}**, ikan hiu makan tomat, minta whatsappnya dong cantik **Puguh** 💘")
         placeholder = st.empty()
 
         # Animasi terus-menerus
